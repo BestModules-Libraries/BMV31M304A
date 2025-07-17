@@ -2,7 +2,7 @@
 <img src="https://github.com/BestModules-Libraries/img/blob/main/BMV31M304A_V1.0.png" width="506" height="240"> 
 </div> 
 
-bmv31m304
+BMV31M304A
 ===========================================================
 
 The Best Modules BMV31M304A is a voice playback module, which uses the I2C communicates method.This document provides the description of the BMV31M304A Arduino Lib functions and how to install the Arduino Lib. The example demonstrates module voice updates and voice playback.
